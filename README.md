@@ -1,5 +1,4 @@
 # RBF-PDE
-# Original Paper: https://drive.google.com/open?id=1d0NXQE4Zx4OUr9hDHxvz6Orhrnq9Gr7B
 
 Main Program of Chapters 1 - 4: RBF_OptionPricing.m
 (for details, please refer to Page 13 of the report, i.e. section 3.0 "Structure of Program")
